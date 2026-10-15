@@ -17,3 +17,11 @@
 
 1234 + ABCD = BE01
 AA67 + F00F = 1 9A76
+
+## Hexadecimal -> Binary
+
+A0B7 -> 1010000010110111
+
+## Binary -> Hexadecimal
+
+1101 1011 1000 1001 1110 1011 0101 1010 -> DB89 EB5A
